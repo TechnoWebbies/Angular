@@ -1,1 +1,1 @@
-# angular-getting-started-youtube
+# Sample Angular Project
